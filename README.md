@@ -17,5 +17,8 @@ This repo holds the Python solutions and output screenshots for the CS1101 Unit 
 > Tip: After the repo is public on GitHub, the direct link will look like:
 > `https://raw.githubusercontent.com/<your-username>/<repo-name>/main/CS1101_Unit3_Assignment/assignment_q1.png`
 
+## Notes for classmates
+These materials were prepared by Mohamed Ibrahim Zwanski. If this repository helps you, please give credit, and double-check the work so you can explain it in your own words.
+
 ## Next steps
 Once the repository is published, share the links or embed the raw image URLs in your document as needed.
